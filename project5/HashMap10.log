@@ -1,0 +1,16 @@
+δεκ. 29, 2021 2:57:32 PM model.MyCollection TransportHash
+INFO: HashMap
+δεκ. 29, 2021 2:57:32 PM model.MyCollection add
+INFO: 
+AddTotalCount = 10
+δεκ. 29, 2021 2:57:32 PM model.MyCollection add
+INFO: AddTotalTime = 29 624
+δεκ. 29, 2021 2:57:32 PM model.MyCollection add
+INFO: AddMedianTime = 2 962
+δεκ. 29, 2021 2:57:32 PM model.MyCollection remove
+INFO: 
+RemoveTotalCount = 1
+δεκ. 29, 2021 2:57:32 PM model.MyCollection remove
+INFO: RemoveTotalTime = 8 776
+δεκ. 29, 2021 2:57:32 PM model.MyCollection remove
+INFO: RemoveMedianTime = 8 776
